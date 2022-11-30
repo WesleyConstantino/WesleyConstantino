@@ -1,6 +1,6 @@
 # About me
 - I'm living in Brazil, southeast
-- I'm eager to learn about <kbd><img align="center" alt="angular" height="20" width="20" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://i.pinimg.com/originals/3c/9d/1b/3c9d1bd2009f4d749ee675765fcc0d8c.jpg)" style="max-width:100%;"></kbd>
+- I'm eager to learn about <kbd><img align="center" alt="angular" height="20" width="30" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://i.pinimg.com/originals/3c/9d/1b/3c9d1bd2009f4d749ee675765fcc0d8c.jpg)" style="max-width:100%;"></kbd>
 - I’m currently interning on [*Minsait*](https://www.minsait.com/pt) - Empresa Multinacional de Tecnologia
 
 ## Connect me
