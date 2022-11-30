@@ -1,6 +1,6 @@
 # About me
 - I'm living in Brazil, southeast
-- I'm eager to learn about <kbd><img align="center" alt="angular" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;"></kbd>
+- I'm SAP ABAP developer
 - I’m currently interning on [*Minsait*](https://www.minsait.com/pt) - Empresa Multinacional de Tecnologia
 
 ## Connect me
