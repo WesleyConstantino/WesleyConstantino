@@ -1,7 +1,7 @@
 # About me
 - I'm living in Brazil, southeast
 - I'm eager to learn about <kbd><img align="center" alt="angular" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;"></kbd>
-- I’m currently interning on [*Minsait*](https://www.minsait.com/pt) - Empresa Multinacional de Tecnologia da Informação
+- I’m currently interning on [*Minsait*](https://www.minsait.com/pt) - Empresa Multinacional de Tecnologia
 
 ## Connect me
 <a href="https://www.linkedin.com/in/wesley-constantino-3a5055221" target="_blank"> <img align="center" alt="wesley-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
