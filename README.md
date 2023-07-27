@@ -1,7 +1,7 @@
 # About me
 - I'm living in Brazil, southeast
 - I'm SAP ABAP developer
-- I’m currently interning on [*MIGNOW*]([https://www.minsait.com/pt](https://mig-now.com/)) - Empresa de Tecnologia
+- I’m currently interning on [*MIGNOW*](https://mig-now.com/) - Empresa de Tecnologia
 
 ## Connect me
 <a href="https://www.linkedin.com/in/wesley-constantino-3a5055221" target="_blank"> <img align="center" alt="wesley-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
