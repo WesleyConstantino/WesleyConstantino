@@ -10,10 +10,8 @@
 </a>
 
 ## My Skills
-<p>
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![ABAP](https://img.shields.io/badge/ABAP-FF9A00?style=for-the-badge)
 ![CPI](https://img.shields.io/badge/SAP%20CPI-0FAAFF?style=for-the-badge)
-</p>
 
 ![Wesley Constantino's GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyConstantino&show_icons=true&count_private=true&theme=dark)
